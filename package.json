@@ -1,0 +1,18 @@
+{
+  "name": "cappuccino-theme",
+  "displayName": "my Theme",
+  "description": "Aseprite Pixel-Art Theme",
+  "version": "1.0",
+  "author": { "name": "YetACP", "email": "yetacp@email.com", "url": "https://github.com/yetacp" },
+  "contributors": [],
+  "publisher": "YetACP",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "Cappuccino", "path": "." }
+    ]
+  }
+}
