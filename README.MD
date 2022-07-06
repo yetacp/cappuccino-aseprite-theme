@@ -1,9 +1,12 @@
 # Cappuccino Aseprite Theme
 
-## Setup
+| ![screen](screenshot.png "screen") |
+| ------ |
+
+## Linux Setup
+
+- Copy files to ~/.config/aseprite/extensions/ 
 - Open Aseprite
 - Go to Edit/Preferences.
-- Select Extensions category in the left column.
-- Click Add Extension, find and select the zip file you've just downloaded then click OK.
-- Select Themes category in the right column, choose than theme then click Select button.
+- Select Theme category in the left column.
 - Restart Aseprite to make the change happen.
